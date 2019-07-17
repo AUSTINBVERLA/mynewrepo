@@ -1,0 +1,2 @@
+echo "This file will be updated and check for if it is in the remote repository"
+echo "i have to keep practicing." 
