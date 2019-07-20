@@ -1,0 +1,6 @@
+# scripts on condition;
+if [[ $output -eq 0 ]]; then
+echo "output is: $output"
+echo "file is not available"
+else
+echo "file is available"
